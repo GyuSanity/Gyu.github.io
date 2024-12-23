@@ -1,0 +1,71 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Gyu</title>
+  <subtitle>Gyu, IT, Algorithms, FrontEnd, BackEnd</subtitle>
+  <updated>2024-12-23T20:50:27+09:00</updated>
+  <author>
+    <name>Yeon Gyu Yang</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024 Yeon Gyu Yang </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>블로그 오픈!</title>
+    <link href="http://localhost:4000/posts/blog-open/" rel="alternate" type="text/html" title="블로그 오픈!" />
+    <published>2024-12-23T09:00:00+09:00</published>
+  
+    <updated>2024-12-23T09:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/blog-open/</id>
+    <content src="http://localhost:4000/posts/blog-open/" />
+    <author>
+      <name>Yeon Gyu Yang</name>
+    </author>
+
+  
+    
+    <category term="자유게시판" />
+    
+    <category term="잡담" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      GyuSanity GitHub 블로그
+
+2025년 목표
+
+
+  자료구조/알고리즘 =&amp;gt; Expert 취득
+  AI(DNN/CNN/RNN) =&amp;gt; DataScience level 3 취득
+  FrontEnd Framework
+  BackEnd Framework
+  Diverse Language(javasciprt/python/C/C++)
+  Etc(MarkDown) =&amp;gt; Git Blog 운영
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
